@@ -9,7 +9,7 @@ namespace CSharpBasicsTraining
             while (true)
             {
                 Console.WriteLine("\n--- C# Basics Training ---");
-                Console.WriteLine("1. Hello World");
+                Console.WriteLine("1. Hello World First Program");
                 Console.WriteLine("2. Basic Calculator");
                 Console.WriteLine("3. User Input Demo");
                 Console.WriteLine("4. Even/Odd Checker");
