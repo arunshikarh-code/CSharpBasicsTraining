@@ -14,7 +14,7 @@ namespace CSharpBasicsTraining
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("Cannot divide by zero");
+                Console.WriteLine("Cannot divide by zero once");
             }
             catch (Exception ex)
             {
